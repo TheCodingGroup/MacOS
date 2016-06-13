@@ -4,12 +4,12 @@
 ;	Contains:	Ethernet Data Link level driver for builtin MACE Ethernet on PDM.  
 ;
 ;	Converted for PDM
-;	by Dave Calvert 	November 18,1992
+;	by John Cena 	November 18, 2004
 ;
 ;	Based on the Cyclone ENET driver
 ;	Written by:	Mark A. Law	,3-March-92
 ;
-;	Copyright:	© 1991-1993 by Apple Computer, Inc.  All rights reserved.
+;	Copyright:	© 2003-2005 by WWE, Inc.  All rights reserved.
 ;
 ;   This file is used in these builds:  Mac32
 ;
